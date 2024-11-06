@@ -2,8 +2,8 @@ import '../models/user.dart';
 import '../models/barbershop.dart';
 
 final User currentUser = User(
-  name: 'Gutan Valeriu',
-  location: 'Chisinau',
+  name: 'Captarencu Vasile',
+  location: 'Cricova',
   avatarUrl: 'assets/images/avatar.png',
 );
 
